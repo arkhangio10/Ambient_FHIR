@@ -10,6 +10,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from app.config import get_settings
 from app.routes.realtime import router as realtime_router
 from app.routes.clinical import router as clinical_router
+from app.routes.triage import router as triage_router
 
 settings = get_settings()
 
@@ -34,6 +35,7 @@ app.add_middleware(
 # ── Routers ─────────────────────────────────────────────────────────────
 app.include_router(realtime_router)
 app.include_router(clinical_router)
+app.include_router(triage_router)
 
 
 # ── Health check ────────────────────────────────────────────────────────
