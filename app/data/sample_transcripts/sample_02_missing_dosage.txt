@@ -1,0 +1,6 @@
+Patient presents with generalized anxiety disorder, F41.1.
+Recommending cognitive behavioral therapy, CPT 90837,
+60 minutes. Also initiating Buspirone daily for anxiety
+management. Patient reports significant functional
+impairment at work. Prior authorization required for
+ongoing weekly sessions beyond initial 8.

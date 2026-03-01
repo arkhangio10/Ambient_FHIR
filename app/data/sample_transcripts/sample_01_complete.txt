@@ -1,0 +1,9 @@
+Patient is a 34-year-old presenting with persistent low mood,
+anhedonia, and disrupted sleep for the past 6 weeks.
+Diagnosis is major depressive disorder, recurrent moderate,
+ICD-10 F33.1. We are continuing individual psychotherapy
+at 45 minutes, CPT 90834, with telehealth modifier GT.
+Starting Sertraline 50mg daily. Clinical rationale:
+patient has not responded to lifestyle interventions alone
+and meets criteria for pharmacological support alongside
+ongoing psychotherapy.
